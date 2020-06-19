@@ -1,7 +1,9 @@
 # AWS-Assessment
 AWS Security Assessment Tools and Tips
 
-Security auditing tool for AWS environments http://nccgroup.github.io/Scout2/ 
+Security auditing tool for AWS environments
+http://nccgroup.github.io/Scout2/ 
+
 Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains all CIS controls listed here https://github.com/toniblyx/prowler
 
 Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
