@@ -1,6 +1,9 @@
 # AWS-Assessment
 AWS Security Assessment Tools and Tips
 
+Awesome List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. sorteg by popularity
+https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+
 Security auditing tool for AWS environments
 http://nccgroup.github.io/Scout2/ 
 
